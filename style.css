@@ -1,0 +1,456 @@
+div{
+  margin: auto;
+}
+.top{
+  width: 1920px;
+  height: 154px;
+}
+.usles{
+  width: 640px;
+  height: 154px;
+  float: right;
+}
+.u0{
+  width: 640px;
+  height: 58px;
+}
+.u1{
+  width: 640px;
+  height:154px;
+  float: left;
+}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #2f4052;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #111;
+}
+.midB{
+  width: 1920px;
+  height: 880px;
+  background-image: url(FirstBackGround.jpg);
+}
+.usefullMid{
+  width: 1920px;
+  height: 395px;
+}
+.side{
+  width: 450px;
+  height: 395px;
+  float: left;
+}
+.usefull{
+  width: 1020px;
+  height: 395px;
+  float: left;
+}
+.button {
+  background-color: #3eb49b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 380px;
+  cursor: pointer;
+}
+.uslesMid{
+  width: 1920px;
+  height: 293px;
+}
+.some{
+  color: white;
+  text-align: center;
+}
+.first{
+  color: white;
+  text-align: center;
+  font-size: 60px;
+}
+.mid0{
+  width: 1920px;
+  height: 474px;
+}
+.topmid0{
+  width: 1920px;
+  height: 150px;
+}
+.midmid0{
+  width: 1920px;
+  height: 324px;
+
+}
+.sidemid0{
+  width: 500px;
+  height: 324px;
+  float: left;
+}
+.shizmid0{
+  width: 920px;
+  height: 324px;
+  float: left;
+}
+.hmid0{
+  width: 920px;
+  height: 70px;
+  text-align: center;
+}
+.heading{
+  color: #4d6f84;
+  font-size: 40px;
+}
+.textmid0{
+  font-size: 18px;
+  color: #738b9c;
+}
+.tmid0{
+  width: 920px;
+  height: 354px;
+}
+.mid1{
+  width: 1920px;
+  height: 326px;
+}
+.onepart{
+  width: 384px;
+  height: 326px;
+  float: left;
+}
+.hearth0{
+  width: 61px;
+  height: 326px;
+  float: left;
+}
+.hearth1{
+  width: 61px;
+  height: 53px;
+  background-image: url(hearth.png);
+  float: left;
+}
+.htex{
+  width: 320px;
+  height: 326px;
+  float: right;
+  text-align: left;
+}
+.textcolor{
+  color: #4d6f84;
+  font-size: 22px;
+  vertical-align: top;
+}
+.pcolor{
+  color: #7c92a2;
+  font-size: 11px;
+}
+.lamp1{
+  width: 50px;
+  height: 326px;
+  float: left;
+}
+.lamp{
+  width: 46px;
+  height: 65px;
+  background-image: url(lamp.png);
+  float: left;
+}
+.star0{
+  width: 60px;
+  height: 326px;
+  float: left;
+}
+.star{
+  width: 56px;
+  height: 53px;
+  background-image: url(star.png);
+}
+.mid2{
+  width: 1920px;
+  height: 1370px;
+  background-color: #f2f6f7;
+}
+.topmid2{
+  width: 1920px;
+  height: 150px;
+}
+.headingmid2{
+  width: 1920px;
+  height: 150px;
+  text-align: center;
+}
+.h1mid2{
+  color: #4d6f84;
+  font-size: 34px;
+}
+.pmid2{
+  color: #7c92a2;
+  font-size: 16px;
+}
+.picmid2{
+  width: 1920px;
+  height: 390px;
+}
+.midsome1{
+  width: 945px;
+  height: 390px;
+  float: left;
+}
+.mid21{
+  width: 570px;
+  height: 390px;
+  background-image: url(1.png);
+  float: right;
+}
+.midsome2{
+  width: 945px;
+  height: 390px;
+  float: right;
+}
+.mid22{
+  width: 570px;
+  height: 390px;
+  background-image: url(2.png);
+  float: left;
+}
+.under{
+  width: 1920px;
+  height: 192px;
+}
+.uslesL{
+  width: 375px;
+  height: 192px;
+  float: left;
+}
+.uslesR{
+  width: 375px;
+  height: 192px;
+  float: right;
+}
+.tunderL{
+  width: 570px;
+  height: 192px;
+  float: left;
+}
+.doubleuL{
+  width: 570px;
+  height: 106px;
+}
+.textL1{
+  width: 570px;
+  height: 86px;
+  float:left;
+  background-color:white;
+}
+.textL2{
+  width: 570px;
+  height: 86px;
+  float:right;
+  background-color:white;
+}
+.headingunder{
+  font-size: 20px;
+  color: #4d6f84;
+  text-align: center;
+}
+.textunder{
+  font-size: 10px;
+  color: #7b92a2;
+  text-align: center;
+}
+.tunderR{
+  width: 570px;
+  height: 192px;
+  float: left;
+}
+.midmidunder{
+  width: 30px;
+  height: 192px;
+  float: left;
+}
+.miniPic{
+  width: 1920px;
+  height: 185px;
+}
+.spaceside{
+  width: 375px;
+  height: 185px;
+  float: left;
+}
+.spacebetweenus{
+  width: 30px;
+  height: 185px;
+  float: left;
+}
+.mini0{
+  width: 270px;
+  height: 185px;
+  background-image: url(under0.png);
+  float: left;
+}
+.mini1{
+  width: 270px;
+  height: 185px;
+  background-image: url(under1.png);
+  float: left;
+}
+.mini2{
+  width: 270px;
+  height: 185px;
+  background-image: url(under2.png);
+  float: left;
+}
+.mini3{
+  width: 270px;
+  height: 185px;
+  background-image: url(under3.png);
+  float: left;
+}
+.mid3{
+  width: 1920px;
+  height: 479px;
+}
+.topmid3{
+  width: 1920px;
+  height: 127px;
+}
+.sidemid3{
+  width: 575px;
+  height: 352px;
+  float: left;
+}
+.inmid3{
+  width: 770px;
+  height: 352px;
+  float: left;
+}
+.buttonmid3{
+  width: 770px;
+  height: 204px;
+}
+.textmid3{
+  width: 770px;
+  height: 148px;
+  text-align: center;
+}
+.button1 {
+  background-color: #3eb49b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 300px;
+  cursor: pointer;
+}
+.bot{
+  width: 1920px;
+  height: 334px;
+  background-color: #2f4052;
+}
+.bottopandbot{
+  width: 1920px;
+  height: 69px;
+}
+.abot{
+  width: 1920px;
+  height: 196px;
+}
+.botside{
+  width: 375px;
+  height: 196px;
+  float: left;
+}
+.arbot{
+  width: 270px;
+  height: 196px;
+  float: left;
+  text-align: left;
+}
+.botspace{
+  width: 30px;
+  height: 196px;
+  float: left;
+}
+.reen{
+  font-size: 32px;
+  color: white;
+}
+.who{
+  font-size: 11px;
+  color: white;
+}
+.link{
+  color: #a4b4bf;
+  background-color: transparent;
+  text-decoration: none;
+}
+.betpicsid{
+  width: 5px;
+  height: 85px;
+  float: left;
+}
+.betpicbot{
+  height: 5px;
+  width: 255px;
+}
+.pics{
+  width: 255px;
+  height: 85px;
+}
+.png0{
+  height: 85px;
+  width: 125px;
+  background-image: url(bot0.png);
+  float: left;
+}
+.png1{
+  height: 85px;
+  width: 125px;
+  background-image: url(bot1.png);
+  float: left;
+}
+.png2{
+  height: 85px;
+  width: 125px;
+  background-image: url(bot2.png);
+  float: left;
+}
+.png3{
+  height: 85px;
+  width: 125px;
+  background-image: url(bot3.png);
+  float: left;
+}
+.BBot{
+  width: 1920px;
+  height: 78px;
+  background-color: #283645;
+}
+.bothref{
+  color: #70818c;
+  float: right;
+  margin: 25px;
+  font-size: 9px;
+  text-decoration: none;
+}
+.botsideBB{
+  width: 373px;
+  height: 78px;
+  float: right;
+}
